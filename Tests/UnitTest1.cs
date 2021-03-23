@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Tests
+namespace LambdaParser.Tests
 {
     public class UnitTest1
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Models
+namespace LambdaParser.Models
 {
     public class Class1
     {
